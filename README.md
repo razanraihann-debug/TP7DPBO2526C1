@@ -1,6 +1,5 @@
-# TP7DPBO2526C - Sistem Peminjaman Alat
-
-Web berbasis **PHP Native** dengan konsep **OOP**, koneksi **PDO**, dan seluruh query menggunakan **Prepared Statement**.
+# JANJI
+Saya Razan Raihan Malik dengan NIM 2508838 mengerjakan Tugas Praktikum 7 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 ## Tema Website
 Sistem peminjaman alat laboratorium/kampus. Admin dapat mengelola kategori alat, data alat, data peminjam (mahasiswa), serta mencatat transaksi peminjaman beserta status pengembaliannya.
