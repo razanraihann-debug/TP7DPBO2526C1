@@ -51,6 +51,6 @@ Relasi: `kategori 1 - N alat`, `alat 1 - N peminjaman`, `peminjam 1 - N peminjam
 | peminjaman | form tambah (pilih alat & peminjam) | tabel + JOIN alat & peminjam | tombol Edit | tombol Hapus |
 
 ## Dokumentasi
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtu.be/1z0SDiUbW4s?si=ypS9b_5A8Sff6rkj](https://youtu.be/ZTEJC5gP0GI))
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtu.be/1z0SDiUbW4s?si=ypS9b_5A8Sff6rkj](https://youtu.be/ZTEJC5gP0GI)](https://www.youtube.com/watch?v=ZTEJC5gP0GI))
 
 klik untuk melihat video
